@@ -14,7 +14,7 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#work">
+        <a className="nav-link" href="https://github.com/chandrasekharjena-ui">
           Work
         </a>
       </li>
